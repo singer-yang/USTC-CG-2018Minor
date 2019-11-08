@@ -1,7 +1,8 @@
 # computer-graphics
 code for 2018fall computer graphics, Lanfang Dong, USTC. 
 
-environment: OpenGL on C 
+environment: OpenGL on C
+
 run "main.c"
 
 My main work includes loading point cloud data, reconstructing graphic, pasting texture and charlet.

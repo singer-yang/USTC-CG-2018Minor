@@ -1,4 +1,6 @@
 # computer-graphics
-2018年计算机图形学课程资料，主要内容是大作业，加载三维人物模型luweiqi
+code for 2018fall computer graphics. 
 
-第一次正式在github上传自己的代码，操作不熟练，正在摸索。
+load cloud point data, texture and chartlet.
+
+
